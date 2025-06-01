@@ -5,7 +5,7 @@ cowboy-hero, but only the 2D part
 - c# (programming language)
 - unity 2021 (software)
 
-# installation instructions (2 options)
+# installation instructions
 the website linked with this project leads you to the game where you can download it
 
 # authors
