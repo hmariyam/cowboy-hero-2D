@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scorpions
+  - Collection
+  - Balle
+  - Joueur
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 322263039
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Montagnes
+    uniqueID: 4146204545
+    locked: 0
+  - name: Sol
+    uniqueID: 4074683419
+    locked: 0
+  - name: Cowboy
+    uniqueID: 3473162127
+    locked: 0
+  - name: Platformes
+    uniqueID: 2386820733
+    locked: 0
+  - name: Flagpole
+    uniqueID: 3674815643
+    locked: 0
+  - name: Palmiers
+    uniqueID: 544145969
+    locked: 0
+  - name: Cactus
+    uniqueID: 738875661
+    locked: 0
+  - name: Balle
+    uniqueID: 840376875
+    locked: 0
+  - name: Coeur
+    uniqueID: 193723017
+    locked: 0
+  - name: Arraigner
+    uniqueID: 3785883941
+    locked: 0
+  - name: Scorpions
+    uniqueID: 379248049
+    locked: 0
+  - name: Virevolant
+    uniqueID: 3576672621
+    locked: 0
